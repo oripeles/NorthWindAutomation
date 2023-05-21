@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWindAutomation", "NorthWindAutomation\NorthWindAutomation.csproj", "{0076F810-C16A-431E-845F-BDCCB67C1329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0076F810-C16A-431E-845F-BDCCB67C1329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0076F810-C16A-431E-845F-BDCCB67C1329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0076F810-C16A-431E-845F-BDCCB67C1329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0076F810-C16A-431E-845F-BDCCB67C1329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD9DDDF-FD8E-4A54-ACAD-63093C9A0EA3}
+	EndGlobalSection
+EndGlobal
